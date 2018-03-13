@@ -10,7 +10,7 @@ if (process.env.JAWSDB_URL){
    host: "e764qqay0xlsc4cz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
    user: "xk4otxpteirq1jck",
    password: "hf9gpa5ry90fcm6k",
-   database: "burgers_db");
+   database: "seundtxzr5uitvd5");
 }
 
 // Make connection.
